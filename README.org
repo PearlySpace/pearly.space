@@ -1,0 +1,21 @@
+README -*-org-*-
+
+* pearly.space
+** Features
+   - [ ] Initial Dashboard items
+     - [ ] Weather
+     - [ ] Current Devices on Network
+     - [ ] Sonos/Airplay now playing
+     - [ ] Calendars
+     - [ ] Twitter(?)
+     - [ ] Current Temp Inside (hook into Nest units?)
+     - [ ] Lighting (current lights on) (hook into Wink/Phillips bulbs)
+     - [ ] Todo list
+   - [ ] Customizable interface
+     - [ ] [LOW] Drag & Drop
+   - [ ] [LOW] Plugin System
+     - [ ] Ability to install plugins from web interface (vs. command line)
+
+** Bugs
+
+** Other
